@@ -4,9 +4,8 @@
     <title>Posts on Thisdog</title>
     <link>https://thisdog.cn/posts/</link>
     <description>Recent content in Posts on Thisdog</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.162.0</generator>
     <language>zh-cn</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="https://thisdog.cn/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
